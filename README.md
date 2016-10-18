@@ -27,7 +27,6 @@ Exemplary data (assuming all votes are valid):
 	"D" => 3
 ]
 ```
-Detail: http://goo.gl/mtjTN7
 
 **_Write a class that calculates  for a variable number of parties and seats and include the needed two lines how to call your class._**
 
